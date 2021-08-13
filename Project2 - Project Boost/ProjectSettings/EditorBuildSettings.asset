@@ -9,6 +9,9 @@ EditorBuildSettings:
     path: Assets/Scenes/Inbetween.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
   - enabled: 1
-    path: Assets/Scenes/Over and Under.unity
+    path: Assets/Scenes/Over and under.unity
     guid: ccb10c3ee0aa9e9468a709bc13699d79
+  - enabled: 1
+    path: Assets/Scenes/Steady....unity
+    guid: edd9b1cd5d2e6154da3749c765c1dbe7
   m_configObjects: {}
