@@ -669,6 +669,10 @@ PrefabInstance:
     m_TransformParent: {fileID: 6408042997913466093}
     m_Modifications:
     - target: {fileID: 584678573886053986, guid: d4b06ebeeaf0ac044aeed997d98443c2, type: 3}
+      propertyPath: playOnAwake
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 584678573886053986, guid: d4b06ebeeaf0ac044aeed997d98443c2, type: 3}
       propertyPath: ShapeModule.radius.value
       value: 0.2
       objectReference: {fileID: 0}
@@ -881,6 +885,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 6408042997913466093}
     m_Modifications:
+    - target: {fileID: 584678573886053986, guid: d4b06ebeeaf0ac044aeed997d98443c2, type: 3}
+      propertyPath: playOnAwake
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 584678573886053986, guid: d4b06ebeeaf0ac044aeed997d98443c2, type: 3}
       propertyPath: ShapeModule.radius.value
       value: 0.2
